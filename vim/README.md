@@ -8,10 +8,9 @@ Install [coc.nvim](https://github.com/neoclide/coc.nvim) for auto suggestions.
 
 Directory Structure
 
-$HOME/.vim 
-  |-- autoload 
-  |-- backup
-  |-- colors
-  |-- config > `coc.vim`
-  |-- plugged
-
+`$HOME/.vim` <br>
+&nbsp;&nbsp;|-- `autoload` <br>
+&nbsp;&nbsp;|-- `backup` <br>
+&nbsp;&nbsp;|-- `colors` <br>
+&nbsp;&nbsp;|-- `config` > `coc.vim` <br>
+&nbsp;&nbsp;|-- `plugged` <br>
