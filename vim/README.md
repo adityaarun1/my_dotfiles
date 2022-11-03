@@ -8,7 +8,7 @@ Install [coc.nvim](https://github.com/neoclide/coc.nvim) for auto suggestions.
 
 Run `yarn install` in the `$HOME/.vim/config` folder to install yarn dependecies. Specific
 coc extensions can be installed using `:CocInstall coc-json coc-pyright coc-xml`. To configure
-the extensions, run `:CocConfigure` and appropriate changes.
+the extensions, run `:CocConfigure` and make appropriate changes.
 
 Directory Structure
 
